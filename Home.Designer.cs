@@ -98,7 +98,7 @@ namespace SprayingDosageCalculator
             // 
             // calculateButton
             // 
-            this.calculateButton.Location = new System.Drawing.Point(330, 132);
+            this.calculateButton.Location = new System.Drawing.Point(327, 131);
             this.calculateButton.Name = "calculateButton";
             this.calculateButton.Size = new System.Drawing.Size(75, 23);
             this.calculateButton.TabIndex = 6;
